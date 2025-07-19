@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚩 I’m currently Playing CTF and make a modern Website <br>🤝 I am looking for a collaboration to create a project<br>🌱 I’m currently learning about Cybersecurity, Linux, and Development a Website with .NET
+🚩 I’m currently Playing CTF and make a Bad Website :( <br>🤝 I am looking for a collaboration to create a project<br>🌱 I’m currently learning about Cybersecurity, Linux, and Development a Website with .NET
 
 
 ## 🌐 Socials:
